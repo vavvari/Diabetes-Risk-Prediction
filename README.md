@@ -34,5 +34,5 @@ Python, pandas, NumPy, scikit-learn, seaborn, matplotlib, dython
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib dython
 # download diabetes_risk.csv from the Kaggle link above into the project folder
-jupyter notebook dat402proj1.ipynb
+jupyter notebook diabetesrisk.ipynb
 ```
